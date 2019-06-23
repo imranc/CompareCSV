@@ -1,0 +1,11 @@
+/Users/imran.chowdhury/Projects/CompareCSV/CompareCSV/bin/Debug/netcoreapp2.1/CompareCSV.deps.json
+/Users/imran.chowdhury/Projects/CompareCSV/CompareCSV/bin/Debug/netcoreapp2.1/CompareCSV.runtimeconfig.json
+/Users/imran.chowdhury/Projects/CompareCSV/CompareCSV/bin/Debug/netcoreapp2.1/CompareCSV.runtimeconfig.dev.json
+/Users/imran.chowdhury/Projects/CompareCSV/CompareCSV/bin/Debug/netcoreapp2.1/CompareCSV.dll
+/Users/imran.chowdhury/Projects/CompareCSV/CompareCSV/bin/Debug/netcoreapp2.1/CompareCSV.pdb
+/Users/imran.chowdhury/Projects/CompareCSV/CompareCSV/obj/Debug/netcoreapp2.1/CompareCSV.csprojAssemblyReference.cache
+/Users/imran.chowdhury/Projects/CompareCSV/CompareCSV/obj/Debug/netcoreapp2.1/CompareCSV.csproj.CoreCompileInputs.cache
+/Users/imran.chowdhury/Projects/CompareCSV/CompareCSV/obj/Debug/netcoreapp2.1/CompareCSV.AssemblyInfoInputs.cache
+/Users/imran.chowdhury/Projects/CompareCSV/CompareCSV/obj/Debug/netcoreapp2.1/CompareCSV.AssemblyInfo.cs
+/Users/imran.chowdhury/Projects/CompareCSV/CompareCSV/obj/Debug/netcoreapp2.1/CompareCSV.dll
+/Users/imran.chowdhury/Projects/CompareCSV/CompareCSV/obj/Debug/netcoreapp2.1/CompareCSV.pdb
